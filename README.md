@@ -4,7 +4,8 @@
 
 A secure, intelligent digital health folder that allows users to track their vitals, manage medical reports, and obtain AI-powered health insights. Built with **Next.js** and **Express**.
 
-![Health Wallet Dashboard](https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&q=80&w=2070&ixlib=rb-4.0.3)
+![Uploading image.png…]()
+
 *(Replace with actual screenshot)*
 
 ## ✨ Features
@@ -112,3 +113,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 *Built with ❤️ for better health management.*
+
