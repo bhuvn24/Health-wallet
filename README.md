@@ -4,9 +4,9 @@
 
 A secure, intelligent digital health folder that allows users to track their vitals, manage medical reports, and obtain AI-powered health insights. Built with **Next.js** and **Express**.
 
-![Uploading image.png…]()
 
-*(Replace with actual screenshot)*
+*(<img width="1631" height="801" alt="image" src="https://github.com/user-attachments/assets/4d8c1d44-cc46-409c-abed-aeb5a346bfdb" />
+)*
 
 ## ✨ Features
 
